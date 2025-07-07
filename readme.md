@@ -1,4 +1,5 @@
 ## git operations 
+- git remote add origin url
 - commit
     - ` git add . `
     - ` git commit -m "commit message" `
@@ -19,3 +20,4 @@
 
 
 new text added.
+  new file added
