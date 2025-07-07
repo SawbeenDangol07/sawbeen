@@ -17,7 +17,7 @@
     -`git status`
 - git branch 
     -`git branch`
-
-
-new text added.
-  new file added
+- create new branch locally
+    - git checkout -b sabin
+- switch to an exiting branch
+    - git 
