@@ -21,6 +21,9 @@
 // console.log(result);
 
 
+
+//fucntions assigned to objects
+
 const calculation ={
     addTwoNumbers:function(a,b){
         let c = a+b;
@@ -35,3 +38,8 @@ const calculation ={
         return c; 
     }
 }
+
+
+console.log(calculation.addTwoNumbers(10,20));
+console.log(calculation.addTwoNumbers2(10,20));
+
