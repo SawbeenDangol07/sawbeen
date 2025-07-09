@@ -104,7 +104,4 @@ for (let student of students) {
     console.log("Percentage: "+ student.percentage);
     console.log("Division: "+ student.division);
     console.log("_________________________________________");
-    
-    
-    
 }
