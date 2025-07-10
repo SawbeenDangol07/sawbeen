@@ -21,3 +21,6 @@
     - git checkout -b sabin
 - switch to an exiting branch
     - git 
+
+
+    watch closure and call back 
